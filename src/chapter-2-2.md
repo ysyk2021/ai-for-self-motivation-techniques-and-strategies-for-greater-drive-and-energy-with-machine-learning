@@ -1,5 +1,4 @@
-Types of AI used for self-motivation
-=====================================================================================
+
 
 Artificial Intelligence (AI) has the potential to revolutionize self-motivation by providing personalized support and motivation in a way that is tailored to an individual's specific needs. In this chapter, we will explore the different types of AI that can be used for self-motivation.
 

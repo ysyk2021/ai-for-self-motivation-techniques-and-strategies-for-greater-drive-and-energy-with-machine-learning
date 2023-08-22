@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI for Self-Motivation
-===============================================
+
 
 Artificial Intelligence (AI) is a rapidly-evolving field that aims to create machines that can perform tasks that typically require human intelligence. In this chapter, we will explore the role of AI in self-motivation and its potential benefits.
 
