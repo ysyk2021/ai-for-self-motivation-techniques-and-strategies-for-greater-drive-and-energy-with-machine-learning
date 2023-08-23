@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) is a field of computer science that focuses on creating machines that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and natural language processing. In recent years, AI has gained significant attention for its potential to revolutionize many industries, including self-motivation.
 
 Types of AI

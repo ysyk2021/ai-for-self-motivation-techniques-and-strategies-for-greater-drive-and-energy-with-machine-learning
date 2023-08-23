@@ -1,5 +1,4 @@
 
-
 Before implementing AI tools and technologies for self-motivation, it's important to evaluate the availability and quality of data. In this chapter, we'll discuss how to prepare yourself for AI implementation by evaluating data availability and quality.
 
 What is Data Availability and Quality?

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss best practices for data collection and preparation when using AI algorithms for self-motivation.
 
 Determine Your Metrics
