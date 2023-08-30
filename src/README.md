@@ -8,3 +8,7 @@ In this book, we will explore the latest techniques and strategies for self-moti
 As you read this book, you will learn how to harness the power of AI to achieve greater drive and energy in every aspect of your life. Whether you are a seasoned professional or just starting on your personal growth journey, the strategies and techniques outlined in this book will help you achieve your goals and reach your full potential. So let's get started on this exciting new frontier of self-motivation with AI and machine learning!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
